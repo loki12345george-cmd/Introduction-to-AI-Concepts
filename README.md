@@ -36,7 +36,7 @@ Artificial Intelligence (AI) is a field of computer science that focuses on buil
 (Each section is written by a different team member.)
 
 ## Machine learning
-<!-- [loki12345george-cmd] will write this section --> ## Introduction to Machine Learning
+<!-- [loki12345george-cmd] will write this section --> # Introduction to Machine Learning
 Machine Learning (ML) is a part of AI where computers look at data to find rules on their own, instead of someone writing code for every single step. This helps the computer make accurate predictions.
 
 There are four main types of machine learning you need to know.
