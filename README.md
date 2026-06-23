@@ -39,13 +39,3 @@ There are four main types of machine learning you need to know.
 
 ## NPL
 <!-- [collinsnderitugitonga] will write this section -->
-
-
-## Neural network
-<!-- [kunyerachristie-droid] will write this section -->
-
-## Computer Vision
-<!-- [okoyo13] will write this section -->
-
-## NPL
-<!-- [collinsnderitugitonga] will write this section -->
