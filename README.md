@@ -1,12 +1,18 @@
 # Introduction-to-AI-Concepts.
+
 ## Machine learning
+
 <!-- [loki12345george-cmd] will write this section --> 
 # Introduction to Machine Learning
+
 Machine Learning (ML) is a part of AI where computers look at data to find rules on their own, instead of someone writing code for every single step. This helps the computer make accurate predictions.
+
 
 There are four main types of machine learning you need to know.
 
+
 ### Types of ML
+
 
 | ML Type | Definition | What It Contains | Practical Example |
 | :--- | :--- | :--- | :--- |
